@@ -5,3 +5,4 @@ Olá! Bem vindo ao nosso livro de receitas ![👍](https://mail.google.com/mail/
 - Strogonoff de Frango
 - Pavê
 - Bolão de Limão
+- Bolão de Avelã
